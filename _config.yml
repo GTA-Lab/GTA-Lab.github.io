@@ -11,8 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Graph Theory and its Application Lab. Ferdowsi University of Mashhad
 footer_text: >
   آزمایشگاه نظریه گراف و کاربردهای آن، دانشگاه فردوسی مشهد
-keywords: Graph Theory, Computer Science Dept, آزمایشگاه نظریه گراف و کاربردهای آن، علوم کامپیوتر فردوسی مشهد , علوم کامپیوتر, فردوسی مشهد ,علوم کامپیوتر فردوسی مشهد, علوم کامپیوتر فردوسی مشهد   # add your own keywords or leave empty
-
+keywords: Graph Theory, Computer Science Dept, آزمایشگاه نظریه گراف و کاربردهای آن، علوم کامپیوتر فردوسی مشهد , علوم کامپیوتر, فردوسی مشهد ,علوم کامپیوتر فردوسی مشهد, علوم کامپیوتر فردوسی مشهد # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
