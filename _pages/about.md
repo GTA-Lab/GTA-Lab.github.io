@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: (In Persian) <a href='https://gta-lab-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fa&_x_tr_hl=en&_x_tr_pto=wapp'>آزمایشگاه نظریه گراف و کاربردهای آن</a>
+subtitle: (In Persian) <a href='https://gta--lab-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fa&_x_tr_hl=en&_x_tr_pto=wapp'>آزمایشگاه نظریه گراف و کاربردهای آن</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: GTA-Lab-logo.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Faculty of Mathematical Sciences</p>
