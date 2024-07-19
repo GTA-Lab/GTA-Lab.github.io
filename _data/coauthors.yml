@@ -1,34 +1,38 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Tabasi":
+  - firstname: ["Hashem", "H."]
+    url: https://prof.um.ac.ir/hashemtabasi
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Amintoosi":
+  - firstname: ["Mahmood", "M.", "M"]
+    url: https://mamintoosi.github.io/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"امین‌طوسی":
+  - firstname: ["محمود", "م.", "م"]
+    url: https://mamintoosi.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"امین طوسی":
+  - firstname: ["محمود", "م.", "م"]
+    url: https://mamintoosi.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Gachpazan":
+  - firstname: ["Morteza", "M.", "M"]
+    url: https://scholar.google.com/citations?user=hNY6fBoAAAAJ&hl=en
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Sadoghi":
+  - firstname: ["Hadi", "H.", "H"]
+    url: https://scholar.google.com/citations?hl=en&user=Z3XAKb0AAAAJ&view_op=list_works&sortby=pubdate
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"SadoghiYazdi":
+  - firstname: ["Hadi", "H.", "H"]
+    url: https://scholar.google.com/citations?hl=en&user=Z3XAKb0AAAAJ&view_op=list_works&sortby=pubdate
+
+"صدوقی":
+  - firstname: ["هادی", "ه.", "ه"]
+    url: https://scholar.google.com/citations?hl=en&user=Z3XAKb0AAAAJ&view_op=list_works&sortby=pubdate
+
+"صدوقی‌یزدی":
+  - firstname: ["هادی", "ه.", "ه"]
+    url: https://scholar.google.com/citations?hl=en&user=Z3XAKb0AAAAJ&view_op=list_works&sortby=pubdate
+

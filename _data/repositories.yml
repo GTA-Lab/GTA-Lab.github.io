@@ -1,14 +1,23 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - mamintoosi
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mamintoosi/Overlapping-Cluster-GCN
+  - mamintoosi/ST-for-DA-in-FD
+  - mamintoosi/FC2FC
+  - mamintoosi/Eigenbackground-Revisited
+  - mamintoosi/Reg-OBD-for-VGG-Pruning
+  - mamintoosi/tree-detection
+  - mamintoosi/MMM-Artistic-photoes
+  - mamintoosi/mkdocs-base
+  - cs-um/curr
+  - fumcs/fumcs.github.io
+  - fum-cs/fum-cs.github.io
+  - fum-cs/GNN-workshop
+  - fum-cs/graph-neural-networks
+  - fum-cs/machine-learning
+  - fum-cs/learning-theory
+  - fum-cs/dl
+  - fum-cs/fds
+  - fum-cs/neural-networks
+  - fum-cs/modern-cpp
