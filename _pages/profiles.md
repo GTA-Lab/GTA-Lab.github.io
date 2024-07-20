@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: team
+description: Team members of the GTA-Lab
 nav: true
 nav_order: 7
 
@@ -21,8 +21,50 @@ profiles:
 
   - align: left
     image: M-Tavakoli.jpg
-    # content: about_einstein.md
+    content: about_M-Tavakoli.md
     image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Room No. xxx</p>
+      <p>Faculty of Mathematical Sciences</p>
+      <p>Ferdowsi Univ. of Mashhad</p>
+      <p>Mashhad, IRAN</p>
+
+<hr>
+
+- align: right
+    image: S-Ashkezari.jpg
+    content: about_S-Ashkezari.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Room No. xxx</p>
+      <p>Faculty of Mathematical Sciences</p>
+      <p>Ferdowsi Univ. of Mashhad</p>
+      <p>Mashhad, IRAN</p>
+
+  - align: left
+    image: A-Erfanian.jpg
+    content: about_A-Erfanian.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Room No. xxx</p>
+      <p>Faculty of Mathematical Sciences</p>
+      <p>Ferdowsi Univ. of Mashhad</p>
+      <p>Mashhad, IRAN</p>
+
+- align: right
+    image: K-Khashyarmanesh.jpg
+    content: about_K-Khashyarmanesh.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Room No. xxx</p>
+      <p>Faculty of Mathematical Sciences</p>
+      <p>Ferdowsi Univ. of Mashhad</p>
+      <p>Mashhad, IRAN</p>
+
+  - align: left
+    image: F-Rahbarnia.jpg
+    content: about_F-Rahbarnia.md
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>Room No. xxx</p>
       <p>Faculty of Mathematical Sciences</p>

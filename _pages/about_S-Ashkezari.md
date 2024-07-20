@@ -1,0 +1,1 @@
+[Dr. Soheila Ashkezari-T](https://scholar.google.com/citations?user=ql5JirMAAAAJ&hl=en&oi=ao) is an Assistant Professor of Computer Engineering at Ferdowsi University of Mashhad. His main research interest is data mining and machine learning.
