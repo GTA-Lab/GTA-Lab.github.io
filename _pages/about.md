@@ -23,15 +23,13 @@ tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپ
 
 ## About
 
-================
-
-The Graph Theory and its Applications Laboratory at the Faculty of Mathematical Sciences, Ferdowsi University of Mashhad, is dedicated to conducting research in graph theory, graph algorithms, and their applications. By leveraging innovative approaches and advanced analytical methods, our laboratory addresses various challenges in diverse graph domains, including graph structure learning, graph neural networks, and time-varying graphs.
+The Graph Theory and its Applications Laboratory at the Faculty of Mathematical Sciences, Ferdowsi University of Mashhad, is dedicated to conducting research in graph theory, graph algorithms, and their applications. By leveraging innovative approaches and advanced analytical methods, our laboratory addresses various challenges in diverse graph domains, including graph structure learning, graph neural networks, and temporal graphs.
 
 Our laboratory fosters interdisciplinary collaborations with experts from various fields to develop innovative graph applications in different domains, expand knowledge, and specialize in graph theory and graph algorithms within the faculty.
 
 The laboratory's areas of activity include designing and analyzing graph algorithms, graph neural networks, modeling and analyzing complex networks, graph structure learning, graph compression, large-scale graph processing, and graph applications in various sciences, including biological and medical sciences.
 
-### Lab Objectives
+<!-- ### Lab Objectives
 
 -----------------
 
@@ -63,4 +61,4 @@ The laboratory's areas of activity include designing and analyzing graph algorit
 #### 6. Commercializing Research Outcomes
 
 * Developing Commercial Products: Commercializing research results and producing practical products for the market.
-* Creating Job Opportunities: Generating new job opportunities for graduates and researchers.
+* Creating Job Opportunities: Generating new job opportunities for graduates and researchers. -->
