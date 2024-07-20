@@ -28,10 +28,8 @@ profiles:
       <p>Faculty of Mathematical Sciences</p>
       <p>Ferdowsi Univ. of Mashhad</p>
       <p>Mashhad, IRAN</p>
-
-<hr>
-
-- align: right
+      
+  - align: right
     image: S-Ashkezari.jpg
     content: about_S-Ashkezari.md
     image_circular: false # crops the image to make it circular
@@ -51,7 +49,7 @@ profiles:
       <p>Ferdowsi Univ. of Mashhad</p>
       <p>Mashhad, IRAN</p>
 
-- align: right
+  - align: right
     image: K-Khashyarmanesh.jpg
     content: about_K-Khashyarmanesh.md
     image_circular: false # crops the image to make it circular
