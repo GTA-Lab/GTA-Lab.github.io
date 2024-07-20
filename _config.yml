@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Graph Theory
-middle_name: and its Applications Lab
-last_name: FUM
+middle_name: and its Applications
+last_name: LAB
 email: m.amintoosi@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Graph Theory and its Applications Lab. Ferdowsi University of Mashhad
