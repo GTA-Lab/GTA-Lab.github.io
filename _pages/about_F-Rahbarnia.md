@@ -1,1 +1,1 @@
-[Dr. Freydoon Rahbarnia](https://scholar.google.com/citations?user=oWwnRRYAAAAJ&hl=en) is a Professor of Applied Mathematics at Ferdowsi University of Mashhad. His main research interest is graph theory.
+[Dr. Freydoon Rahbarnia](https://scholar.google.com/citations?user=oWwnRRYAAAAJ&hl=en) is an Associate Professor of Applied Mathematics at Ferdowsi University of Mashhad. His main research interest is graph theory.
