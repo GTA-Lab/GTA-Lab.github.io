@@ -21,7 +21,8 @@ tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپ
 ---
 
 
-**About**
+## About
+
 ================
 
 The Graph Theory and its Applications Laboratory at the Faculty of Mathematical Sciences, Ferdowsi University of Mashhad, is dedicated to conducting research in graph theory, graph algorithms, and their applications. By leveraging innovative approaches and advanced analytical methods, our laboratory addresses various challenges in diverse graph domains, including graph structure learning, graph neural networks, and time-varying graphs.
@@ -30,35 +31,36 @@ Our laboratory fosters interdisciplinary collaborations with experts from variou
 
 The laboratory's areas of activity include designing and analyzing graph algorithms, graph neural networks, modeling and analyzing complex networks, graph structure learning, graph compression, large-scale graph processing, and graph applications in various sciences, including biological and medical sciences.
 
-**Lab Objectives**
+### Lab Objectives
+
 -----------------
 
-### 1. Scientific and Research Advancements
+#### 1. Scientific and Research Advancements
 
 * Knowledge Development: Establishing and expanding research teams with a focus on graph theory.
 * Publishing High-Quality Research: Producing high-quality papers and publishing them in international journals and conferences.
 
-### 2. Addressing Local and National Needs
+#### 2. Addressing Local and National Needs
 
 * Practical Graph Analysis and Processing: Developing powerful tools and algorithms for graph analysis and processing, such as graph analysis in bike-sharing systems, urban traffic graphs, recommendation systems, and other applications.
 * Intelligent Services: Creating and improving intelligent services, such as traffic prediction and bike demand forecasting.
 
-### 3. Human Resource Development
+#### 3. Human Resource Development
 
 * Training Experts: Educating and training experts in graph algorithms.
 * Enhancing Researchers' Skills: Organizing workshops and training courses to increase researchers' and students' knowledge and skills.
 
-### 4. Technological Innovation and Development
+#### 4. Technological Innovation and Development
 
 * Innovating Products and Services: Developing innovative products and services in the graph domain.
 * Technology Pioneering: Staying at the forefront of new graph technologies.
 
-### 5. Scientific and Industrial Collaborations
+#### 5. Scientific and Industrial Collaborations
 
 * International Collaborations: Establishing scientific collaborations with international universities and research institutions.
 * Industrial Partnerships: Collaborating with industries and organizations to apply research findings and secure funding.
 
-### 6. Commercializing Research Outcomes
+#### 6. Commercializing Research Outcomes
 
 * Developing Commercial Products: Commercializing research results and producing practical products for the market.
 * Creating Job Opportunities: Generating new job opportunities for graduates and researchers.
