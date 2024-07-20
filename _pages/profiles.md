@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: M-Amintoosi.jpg
-    content: about_einstein.md
+    # content: about_M-Amintoosi.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
