@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Establishment of the “Graph Theory and its Applications” Lab
-date: 2024-07-20 16:11:00-0400
+date: 2024-07-18 16:11:00-0400
 inline: false
 related_posts: false
 ---
