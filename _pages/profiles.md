@@ -14,7 +14,7 @@ profiles:
     content: about_M-Tavakoli.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Room No. xxx</p>
+      <p>Room No. 703</p>
       <p>Faculty of Mathematical Sciences</p>
       <p>Ferdowsi Univ. of Mashhad</p>
       <p>Mashhad, IRAN</p>
@@ -34,7 +34,7 @@ profiles:
     content: about_S-Ashkezari.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Room No. xxx</p>
+      <p>Room No. 518</p>
       <p>Faculty of Mathematical Sciences</p>
       <p>Ferdowsi Univ. of Mashhad</p>
       <p>Mashhad, IRAN</p>
@@ -44,7 +44,7 @@ profiles:
     content: about_A-Erfanian.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Room No. xxx</p>
+      <p>Room No. 704</p>
       <p>Faculty of Mathematical Sciences</p>
       <p>Ferdowsi Univ. of Mashhad</p>
       <p>Mashhad, IRAN</p>
@@ -54,7 +54,7 @@ profiles:
     content: about_K-Khashyarmanesh.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Room No. xxx</p>
+      <p>Room No. 726</p>
       <p>Faculty of Mathematical Sciences</p>
       <p>Ferdowsi Univ. of Mashhad</p>
       <p>Mashhad, IRAN</p>
@@ -64,7 +64,7 @@ profiles:
     content: about_F-Rahbarnia.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Room No. xxx</p>
+      <p>Room No. 710</p>
       <p>Faculty of Mathematical Sciences</p>
       <p>Ferdowsi Univ. of Mashhad</p>
       <p>Mashhad, IRAN</p>
