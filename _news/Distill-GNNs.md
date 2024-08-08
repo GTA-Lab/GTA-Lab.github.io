@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Distill's GNN Guides Now Available on GTA-lab
-date: 2024-08-08 16:11:00-0400
+date: 2024-08-08 16:11:00+0400
 inline: false
 related_posts: false
 ---
