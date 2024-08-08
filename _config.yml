@@ -168,10 +168,18 @@ disqus_shortname: GTA-Lab # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  # - name: Google Blog
+  #   posts:
+  #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+  #       published_date: 2024-05-14
+  - name: understanding-gnns
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://gta-lab.github.io/understanding-gnns/
+        published_date: 2024-08-08
+  - name: gnn-intro
+    posts:
+      - url: https://gta-lab.github.io/gnn-intro
+        published_date: 2024-08-07
 
 # -----------------------------------------------------------------------------
 # Newsletter
