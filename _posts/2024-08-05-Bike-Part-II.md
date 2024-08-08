@@ -3,7 +3,6 @@ layout: distill
 title: Bike Rental System, Part II, EDA
 description: Exploratory Data Analysis
 tags: distill formatting
-giscus_comments: true
 date: 2024-08-05
 featured: false
 thumbnail: assets/img/bike-rental/two-wheels.jpg
@@ -30,14 +29,12 @@ Here we have some statical reports on a dataset.
 ## Data visualization
 ### trips per hour in a month:
 
-{% include figure.liquid loading="eager" path="assets/img/thumbnail: assets/img/bike-rental/two-wheels.jpg
-/trips_per_hour-scatterplot-divvybikes.png" class="img-fluid rounded z-depth-1" style="max-width: 50%; max-height: 400px;" %}
+{% include figure.liquid loading="eager" path="assets/img/bike-rental/trips_per_hour-scatterplot-divvybikes.png" class="img-fluid rounded z-depth-1" style="max-width: 50%; max-height: 400px;" %}
 
 
 ### Histogram of Number of Stations with a certain number of Arrivals+Departures in a Week:
 
-{% include figure.liquid loading="eager" path="assets/img/thumbnail: assets/img/bike-rental/two-wheels.jpg
-/Arrivals+Departures-histogram-divvybikes.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/bike-rental/Arrivals+Departures-histogram-divvybikes.png" class="img-fluid rounded z-depth-1" %}
 
 - The histogram provides a concise representation of the distribution of bike stations, categorized by the quantity of arrivals and departures within a week. The analysis reveals that the majority of bike stations exhibit limited engagement, with comparatively fewer incoming and outgoing journeys. Conversely, only a minor portion of stations encounter notably elevated trip figures.
 
