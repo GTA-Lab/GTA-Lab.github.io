@@ -176,8 +176,8 @@ external_sources:
     posts:
       - url: https://gta-lab.github.io/understanding-gnns/
         published_date: 2024-08-08
-  - name: gnn-intro
-    posts:
+  # - name: gnn-intro
+  #   posts:
       - url: https://gta-lab.github.io/gnn-intro
         published_date: 2024-08-07
 
