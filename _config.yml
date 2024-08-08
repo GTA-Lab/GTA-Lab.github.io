@@ -13,7 +13,7 @@ footer_text: >
   (The site is under construction)
 keywords: Graph Theory, Computer Science Dept, آزمایشگاه نظریه گراف و کاربردهای آن، علوم کامپیوتر فردوسی مشهد , علوم کامپیوتر, فردوسی مشهد ,علوم کامپیوتر فردوسی مشهد, علوم کامپیوتر فردوسی مشهد # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: GTA-Lab.ico # ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://GTA-Lab.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
