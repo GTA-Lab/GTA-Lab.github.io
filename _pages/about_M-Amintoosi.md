@@ -6,6 +6,7 @@
 
 After teaching at Hakim Sabzevari University, Mahmood earned his PhD in Artificial Intelligence from Iran University of Science and Technology. He returned to Sabzevar University before joining Ferdowsi University in 2023. Mahmood is proficient in Machine Learning, Data Mining, MATLAB, and LaTeX, and has contributed to CTAN and published a book on LaTeX.
 
-<hr>
 
 ## Other team members in alphabetical order
+
+<hr>
