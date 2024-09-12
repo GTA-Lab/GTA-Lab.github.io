@@ -8,5 +8,3 @@ After teaching at Hakim Sabzevari University, Mahmood earned his PhD in Artifici
 
 
 ## Other team members in alphabetical order
-
-<hr>
