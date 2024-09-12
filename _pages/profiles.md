@@ -28,9 +28,7 @@ profiles:
       <p>Faculty of Mathematical Sciences</p>
       <p>Ferdowsi Univ. of Mashhad</p>
       <p>Mashhad, IRAN</p>
-
-Other team members in alphabetical order
-
+      
   - align: right
     image: S-Ashkezari.jpg
     content: about_S-Ashkezari.md
