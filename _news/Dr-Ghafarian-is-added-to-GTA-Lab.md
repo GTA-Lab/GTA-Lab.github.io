@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Dr. Ghafarian](https://profile.qiet.ac.ir/ghafarian/) is added to our GTA-Lab :sparkles: 
+[Dr. Ghafarian](https://profile.qiet.ac.ir/ghafarian/) is added to our GTA-Lab. 
