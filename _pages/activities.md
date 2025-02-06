@@ -14,7 +14,7 @@ nav_order: 8
     max-width: 600px;  
     max-height: 400px;  
     object-fit: cover;  
-    border-radius: 30px; 
+    border-radius: 10px; 
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); 
   }
 </style>
@@ -31,7 +31,7 @@ This workshop introduces Python programming with a special focus on graph-relate
 **Event Highlights:**
 - T1
 - T2
-- Q&A   
+- Q&A session   
 
 ### 📷 Images  
 <div class="swiper mySwiper">
@@ -47,8 +47,29 @@ This workshop introduces Python programming with a special focus on graph-relate
 
 ---
 
+
+## 🎓 Prezi Workshop by Maedeh Shahabi 
+🗓 **Date:** December, 2024  
+📍 **Location:** Online (Google Meet)  
+
+**Event Highlights:**
+- t1
+- t2
+- Q&A session  
+
+### 📷 Images  
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="/assets/img/prezi.webp" alt="MSeminar 1"></div>
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
+---
+
 ## 🎓 Online MATLAB Training Workshop by Dr. Fatemeh Khorapazan 
-🗓 **Date:** February 20, 2024  
+🗓 **Date:** October 30, 2024  
 📍 **Location:** Online (Google Meet)  
 
 An invited talk by Dr. Fatemeh Khorapazan on **MATLAB Training**.
@@ -67,3 +88,5 @@ An invited talk by Dr. Fatemeh Khorapazan on **MATLAB Training**.
   <div class="swiper-button-prev"></div>
   <div class="swiper-pagination"></div>
 </div>
+
+---
