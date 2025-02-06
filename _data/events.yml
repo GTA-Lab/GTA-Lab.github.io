@@ -1,16 +1,1 @@
-- title: "Python Workshop with Graph Spice"
-  date: "2025-01-01"
-  location: "Ferdowsi University"
-  description: "This workshop introduces Python programming with a special focus on graph-related concepts. Participants will explore fundamental Python skills while learning how to work with graphs, networks, and their applications in data science and machine learning. Through hands-on exercises, attendees will gain practical experience in graph visualization, traversal algorithms, and network analysis. "
-  images:
-    - /assets/img/PyG_workshop1.jfif
-    - /assets/img/PyG_workshop2.jfif
-    - /assets/img/PyG_workshop3.jfif
 
-- title: "Online MATLAB Training Workshop by Dr. Fatemeh Khorapazan"
-  date: "2024-10-30"
-  location: "Mashhad, Iran"
-  description: "Virtual MATLAB Training Workshop"
-  images:
-    - /assets/img/matlab.png
-   
