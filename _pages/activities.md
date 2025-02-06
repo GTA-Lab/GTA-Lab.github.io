@@ -1,3 +1,4 @@
+
 ---
 layout: activities
 permalink: /activities/
@@ -6,6 +7,18 @@ description: Activities of the GTA-Lab
 nav: true
 nav_order: 8
 ---
+
+<style>
+  .swiper-slide img {
+    width: 100%;        
+    max-width: 600px;  
+    max-height: 400px;  
+    object-fit: cover;  
+    border-radius: 10px; 
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); 
+  }
+</style>
+
 
 # GTA-Lab Activities
 
