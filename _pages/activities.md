@@ -46,7 +46,6 @@ This workshop introduces Python programming with a special focus on graph-relate
 </div>
 
 ---
----
 
 
 ## 🎓 Prezi Workshop by Maedeh Shahabi 
@@ -67,6 +66,7 @@ This workshop introduces Python programming with a special focus on graph-relate
   <div class="swiper-button-prev"></div>
   <div class="swiper-pagination"></div>
 </div>
+
 ---
 
 ## 🎓 Online MATLAB Training Workshop by Dr. Fatemeh Khorapazan 
