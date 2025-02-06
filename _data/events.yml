@@ -1,0 +1,17 @@
+- title: "Python Workshop with Graph Spice"
+  date: "2025-01-01"
+  location: "Ferdowsi University"
+  description: "This workshop introduces Python programming with a special focus on graph-related concepts. Participants will explore fundamental Python skills while learning how to work with graphs, networks, and their applications in data science and machine learning. Through hands-on exercises, attendees will gain practical experience in graph visualization, traversal algorithms, and network analysis. "
+  images:
+    - /assets/images/PyG_workshop_1.jpg
+    - /assets/images/PyG_workshop_2.jpg
+    - /assets/images/PyG_workshop_3.jpg
+
+- title: "AI Research Seminar"
+  date: "2024-02-10"
+  location: "Mashhad, Iran"
+  description: "A discussion on recent AI advancements."
+  images:
+    - /assets/images/ai_seminar_1.jpg
+    - /assets/images/ai_seminar_2.jpg
+    - /assets/images/ai_seminar_3.jpg
