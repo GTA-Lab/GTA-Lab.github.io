@@ -24,8 +24,8 @@ This workshop introduces Python programming with a special focus on graph-relate
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
     <div class="swiper-slide"><img src="/assets/img/PyG_workshop1.jfif" alt="G Seminar 1"></div>
-    <div class="swiper-slide"><img src="/assets/img/PyG_workshop1.jfif" alt="G Seminar 2"></div>
-    <div class="swiper-slide"><img src="/assets/img/PyG_workshop1.jfif" alt="G Seminar 3"></div>
+    <div class="swiper-slide"><img src="/assets/img/PyG_workshop2.jfif" alt="G Seminar 2"></div>
+    <div class="swiper-slide"><img src="/assets/img/PyG_workshop3.jfif" alt="G Seminar 3"></div>
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
@@ -34,23 +34,21 @@ This workshop introduces Python programming with a special focus on graph-relate
 
 ---
 
-## 🎓 Seminar on Graph Neural Networks  
+## 🎓 Online MATLAB Training Workshop by Dr. Fatemeh Khorapazan 
 🗓 **Date:** February 20, 2024  
 📍 **Location:** Online (Zoom)  
 
-An invited talk by Dr. X on **Graph Neural Networks (GNN)** for large-scale data.
+An invited talk by Dr. Fatemeh Khorapazan on **MATLAB Training**.
 
 **Event Highlights:**
-- Introduction to GNNs
-- Applications in large-scale data
+- t1
+- t2
 - Live Q&A session  
 
 ### 📷 Images  
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="/assets/img/PyG_workshop1.jfif" alt="G Seminar 1"></div>
-    <div class="swiper-slide"><img src="/assets/img/PyG_workshop1.jfif" alt="G Seminar 2"></div>
-    <div class="swiper-slide"><img src="/assets/img/PyG_workshop1.jfif" alt="G Seminar 3"></div>
+    <div class="swiper-slide"><img src="/assets/img/matlab.png" alt="MSeminar 1"></div>
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
