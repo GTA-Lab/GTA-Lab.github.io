@@ -16,9 +16,9 @@ nav_order: 8
 This workshop introduces Python programming with a special focus on graph-related concepts. Participants will explore fundamental Python skills while learning how to work with graphs, networks, and their applications in data science and machine learning. Through hands-on exercises, attendees will gain practical experience in graph visualization, traversal algorithms, and network analysis. 
 
 **Event Highlights:**
-- Hands-on deep learning exercises
-- Live demonstrations with TensorFlow
-- Q&A with industry experts  
+- T1
+- T2
+- Q&A   
 
 ### 📷 Images  
 <div class="swiper mySwiper">
@@ -36,7 +36,7 @@ This workshop introduces Python programming with a special focus on graph-relate
 
 ## 🎓 Online MATLAB Training Workshop by Dr. Fatemeh Khorapazan 
 🗓 **Date:** February 20, 2024  
-📍 **Location:** Online (Zoom)  
+📍 **Location:** Online (Google Meet)  
 
 An invited talk by Dr. Fatemeh Khorapazan on **MATLAB Training**.
 
