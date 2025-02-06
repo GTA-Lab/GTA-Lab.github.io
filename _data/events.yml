@@ -12,6 +12,5 @@
   location: "Mashhad, Iran"
   description: "Virtual MATLAB Training Workshop"
   images:
-    - /assets/images/ai_seminar_1.jpg
-    - /assets/images/ai_seminar_2.jpg
-    - /assets/images/ai_seminar_3.jpg
+    - /assets/img/matlab.png
+   
