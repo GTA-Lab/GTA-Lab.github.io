@@ -45,7 +45,28 @@ This workshop introduces Python programming with a special focus on graph-relate
   <div class="swiper-pagination"></div>
 </div>
 
+---
+---
 
+
+## 🎓 Prezi Workshop by Maedeh Shahabi 
+🗓 **Date:** December, 2024  
+📍 **Location:** Online (Google Meet)  
+
+**Event Highlights:**
+- t1
+- t2
+- Q&A session  
+
+### 📷 Images  
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="/assets/img/prezi.webp" alt="MSeminar 1"></div>
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
 ---
 
 ## 🎓 Online MATLAB Training Workshop by Dr. Fatemeh Khorapazan 
