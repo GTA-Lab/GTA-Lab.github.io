@@ -73,7 +73,7 @@ This workshop introduces Python programming with a special focus on graph-relate
 🗓 **Date:** October 30, 2024  
 📍 **Location:** Online (Google Meet)  
 
-An invited talk by Dr. Fatemeh Khorapazan on **MATLAB Training**.
+An invited talk by Dr. Fatemeh Koorepazan Moftakhar on **MATLAB Training**.
 
 **Event Highlights:**
 - t1
