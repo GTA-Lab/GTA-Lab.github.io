@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: team
+title: Team
 description: Team members of the GTA-Lab
 nav: true
 nav_order: 7
