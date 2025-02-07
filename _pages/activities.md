@@ -1,6 +1,6 @@
 
 ---
-layout: activities
+layout: page
 permalink: /activities/
 title: Activities
 description: Activities of the GTA-Lab
