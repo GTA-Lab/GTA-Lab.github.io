@@ -78,4 +78,13 @@ profiles:
       <p>Faculty of Mathematical Sciences</p>
       <p>Ferdowsi Univ. of Mashhad</p>
       <p>Mashhad, IRAN</p>
+
+  - align: left
+    image: N-Sabeghi.jpg
+    content: about_N-Sabeghi.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Faculty of Mathematical Sciences</p>
+      <p>Velayat University</p>
+      <p>Iranshahr, IRAN</p>      
 ---
