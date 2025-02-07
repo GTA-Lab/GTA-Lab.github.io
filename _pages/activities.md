@@ -5,7 +5,7 @@ permalink: /activities/
 title: Activities
 description: Activities of the GTA-Lab
 nav: true
-nav_order:6
+nav_order:7
 ---
 
 
