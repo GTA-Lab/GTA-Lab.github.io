@@ -69,16 +69,16 @@ This workshop introduces Python programming with a special focus on graph-relate
 
 ---
 
-## 🎓 Online MATLAB Training Workshop by Dr. Fatemeh Khorapazan 
+## 🎓 Online Magma Training Workshop 
 🗓 **Date:** October 30, 2024  
 📍 **Location:** Online (Google Meet)  
 
-An invited talk by Dr. Fatemeh Koorepazan Moftakhar on **MATLAB Training**.
+An invited talk by Dr. Fatemeh Koorepazan Moftakhar on **Magma Training**.
 
 **Event Highlights:**
 - t1
 - t2
-- Live Q&A session  
+- Q&A session  
 
 ### 📷 Images  
 <div class="swiper mySwiper">
