@@ -83,7 +83,7 @@ An invited talk by Dr. Fatemeh Koorepazan Moftakhar on **MAGMA Training**.
 ### 📷 Images  
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="/assets/img/matlab.png" alt="MSeminar 1"></div>
+    <div class="swiper-slide"><img src="/assets/img/magma.png" alt="MSeminar 1"></div>
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
@@ -107,7 +107,7 @@ A workshop on Graph Neural Networks at the Faculty of Mathematical Sciences by D
 ### 📷 Images  
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="/assets/img/matlab.png" alt="MSeminar 1"></div>
+    <div class="swiper-slide"><img src="/assets/img/gnn.jpg" alt="MSeminar 1"></div>
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
