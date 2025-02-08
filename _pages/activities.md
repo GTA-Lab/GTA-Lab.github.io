@@ -13,7 +13,7 @@ nav_order: 9
     width: 100%;        
     max-width: 600px;  
     max-height: 400px;  
-    object-fit: cover;  
+    object-fit: contain;  
     border-radius: 10px; 
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); 
   }
