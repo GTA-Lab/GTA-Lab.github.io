@@ -84,7 +84,8 @@ profiles:
     content: about_N-Sabeghi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Faculty of Mathematical Sciences</p>
+      <p>Department of Mathematics</p>
+      <p>Faculty of Basic Sciences</p>
       <p>Velayat University</p>
       <p>Iranshahr, IRAN</p>      
 ---
