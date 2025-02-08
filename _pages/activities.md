@@ -97,7 +97,7 @@ An invited talk by Dr. Fatemeh Koorepazan Moftakhar on **MAGMA Training**.
 📍 **Location:** Ferdowsi University of Mashhad  
 
 A workshop on Graph Neural Networks at the Faculty of Mathematical Sciences by Dr. Mahmood Amintoosi.  
-➡️ [More details here](workshops/gnn-workshop.html)
+➡️ [More details here](https://gta-lab.github.io/GNN-workshop/)
 
 **Event Highlights:**
 - t1
