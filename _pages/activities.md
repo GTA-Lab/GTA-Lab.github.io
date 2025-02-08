@@ -91,3 +91,27 @@ An invited talk by Dr. Fatemeh Koorepazan Moftakhar on **MAGMA Training**.
 </div>
 
 ---
+
+## 🎓 Graph Neural Network workshop 
+🗓 **Date:** September  15, 2024  
+📍 **Location:** Ferdowsi University of Mashhad  
+
+A workshop on Graph Neural Networks at the Faculty of Mathematical Sciences by Dr. Mahmood Amintoosi.  
+➡️ [More details here](workshops/gnn-workshop.html)
+
+**Event Highlights:**
+- t1
+- t2
+- Q&A session  
+
+### 📷 Images  
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="/assets/img/matlab.png" alt="MSeminar 1"></div>
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
+
+---
