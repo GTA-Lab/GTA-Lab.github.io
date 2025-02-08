@@ -7,6 +7,8 @@ nav: true
 nav_order: 9
 ---
 
+<!-- Adding Swiper.js styles -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
 
 <style>
   .swiper-slide img {
@@ -19,19 +21,18 @@ nav_order: 9
   }
 </style>
 
-
 # GTA-Lab Activities
 
 ## 📅 Python Workshop with Graph Spice  
 🗓 **Date:** January 1, 2025  
-📍 **Location:** Ferdowsi University of Mashhad 
+📍 **Location:** Ferdowsi University of Mashhad  
 
-This workshop introduces Python programming with a special focus on graph-related concepts. Participants will explore fundamental Python skills while learning how to work with graphs, networks, and their applications in data science and machine learning. Through hands-on exercises, attendees will gain practical experience in graph visualization, traversal algorithms, and network analysis. 
+This workshop introduces Python programming with a special focus on graph-related concepts. Participants will explore fundamental Python skills while learning how to work with graphs, networks, and their applications in data science and machine learning. Through hands-on exercises, attendees will gain practical experience in graph visualization, traversal algorithms, and network analysis.  
 
 **Event Highlights:**
 - T1
 - T2
-- Q&A session   
+- Q&A session  
 
 ### 📷 Images  
 <div class="swiper mySwiper">
@@ -47,8 +48,7 @@ This workshop introduces Python programming with a special focus on graph-relate
 
 ---
 
-
-## 🎓 Prezi Workshop by Maedeh Shahabi 
+## 🎓 Prezi Workshop by Maedeh Shahabi  
 🗓 **Date:** December, 2024  
 📍 **Location:** Online (Google Meet)  
 
@@ -60,7 +60,7 @@ This workshop introduces Python programming with a special focus on graph-relate
 ### 📷 Images  
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="/assets/img/prezi.webp" alt="MSeminar 1"></div>
+    <div class="swiper-slide"><img src="/assets/img/prezi.webp" alt="Prezi Workshop"></div>
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
@@ -69,7 +69,7 @@ This workshop introduces Python programming with a special focus on graph-relate
 
 ---
 
-## 🎓 Online MAGMA Training Workshop 
+## 🎓 Online MAGMA Training Workshop  
 🗓 **Date:** October 30, 2024  
 📍 **Location:** Online (Google Meet)  
 
@@ -83,7 +83,7 @@ An invited talk by Dr. Fatemeh Koorepazan Moftakhar on **MAGMA Training**.
 ### 📷 Images  
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="/assets/img/magma.png" alt="MSeminar 1"></div>
+    <div class="swiper-slide"><img src="/assets/img/magma.png" alt="MAGMA Workshop"></div>
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
@@ -92,7 +92,7 @@ An invited talk by Dr. Fatemeh Koorepazan Moftakhar on **MAGMA Training**.
 
 ---
 
-## 🎓 Graph Neural Network workshop 
+## 🎓 Graph Neural Network workshop  
 🗓 **Date:** September  15, 2024  
 📍 **Location:** Ferdowsi University of Mashhad  
 
@@ -107,7 +107,7 @@ A workshop on Graph Neural Networks at the Faculty of Mathematical Sciences by D
 ### 📷 Images  
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="/assets/img/gnn.jpg" alt="MSeminar 1"></div>
+    <div class="swiper-slide"><img src="/assets/img/gnn.jpg" alt="GNN Workshop"></div>
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
@@ -115,3 +115,20 @@ A workshop on Graph Neural Networks at the Faculty of Mathematical Sciences by D
 </div>
 
 ---
+
+<!-- Adding Swiper.js script -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+<script>
+  var swiper = new Swiper(".mySwiper", {
+    slidesPerView: 1,
+    spaceBetween: 10,
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+  });
+</script>
