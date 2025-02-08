@@ -69,11 +69,11 @@ This workshop introduces Python programming with a special focus on graph-relate
 
 ---
 
-## 🎓 Online Magma Training Workshop 
+## 🎓 Online MAGMA Training Workshop 
 🗓 **Date:** October 30, 2024  
 📍 **Location:** Online (Google Meet)  
 
-An invited talk by Dr. Fatemeh Koorepazan Moftakhar on **Magma Training**.
+An invited talk by Dr. Fatemeh Koorepazan Moftakhar on **MAGMA Training**.
 
 **Event Highlights:**
 - t1
