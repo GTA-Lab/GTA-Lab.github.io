@@ -21,7 +21,7 @@ nav_order: 9
   }
 </style>
 
-# GTA-Lab Activities
+
 
 ## 📅 Python Workshop with Graph Spice  
 🗓 **Date:** January 1, 2025  
@@ -73,7 +73,7 @@ This workshop introduces Python programming with a special focus on graph-relate
 🗓 **Date:** October 30, 2024  
 📍 **Location:** Online (Google Meet)  
 
-An invited talk by Dr. Fatemeh Koorepazan Moftakhar on **MAGMA Training**.
+An invited talk by Dr. Fatemeh Koorepazan Moftakhar on MAGMA Training.
 
 **Event Highlights:**
 - t1
