@@ -60,6 +60,11 @@ profiles:
       <p>Quchan, IRAN</p>
 
   - align: left
+    image: 
+    content: about_Z-Hamedlabafian.md
+    image_circular: false # crops the image to make it circular
+      
+  - align: left
     image: K-Khashyarmanesh.jpg
     content: about_K-Khashyarmanesh.md
     image_circular: false # crops the image to make it circular
