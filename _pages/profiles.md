@@ -60,7 +60,7 @@ profiles:
       <p>Quchan, IRAN</p>
 
   - align: left
-    image: Z-Hamedlabafian.jpg
+    image: Z-hamedlabafian.jpg
     content: about_Z-Hamedlabafian.md
     image_circular: false # crops the image to make it circular
       
