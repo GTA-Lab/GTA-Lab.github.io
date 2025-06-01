@@ -94,5 +94,10 @@ profiles:
     image: Z-hamedlabafian.jpg
     content: about_Z-Hamedlabafian.md
     image_circular: false # crops the image to make it circular
+
+      - align: left
+    content: about_A-Ghalavand.md
+    image_circular: false # crops the image to make it circular
+    
 ---
 
