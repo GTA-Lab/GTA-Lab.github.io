@@ -59,8 +59,13 @@ profiles:
       <p>Quchan University of Technology</p>
       <p>Quchan, IRAN</p>
 
+        - align: left
+    image: 
+    content: about_A-Ghalavand.md
+    image_circular: false # crops the image to make it circular
+
       
-  - align: left
+  - align: right
     image: K-Khashyarmanesh.jpg
     content: about_K-Khashyarmanesh.md
     image_circular: false # crops the image to make it circular
@@ -70,7 +75,7 @@ profiles:
       <p>Ferdowsi Univ. of Mashhad</p>
       <p>Mashhad, IRAN</p>
 
-  - align: right
+  - align: left
     image: F-Rahbarnia.jpg
     content: about_F-Rahbarnia.md
     image_circular: false # crops the image to make it circular
@@ -80,7 +85,7 @@ profiles:
       <p>Ferdowsi Univ. of Mashhad</p>
       <p>Mashhad, IRAN</p>
 
-  - align: left
+  - align: right
     image: N-Sabeghi.jpg
     content: about_N-Sabeghi.md
     image_circular: false # crops the image to make it circular
@@ -90,15 +95,12 @@ profiles:
       <p>Velayat University</p>
       <p>Iranshahr, IRAN</p>  
 
-  - align: right
+  - align: left
     image: Z-hamedlabafian.jpg
     content: about_Z-Hamedlabafian.md
     image_circular: false # crops the image to make it circular
     
-  - align: left
-    image: 
-    content: about_A-Ghalavand.md
-    image_circular: false # crops the image to make it circular
+
     
 ---
 
