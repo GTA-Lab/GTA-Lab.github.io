@@ -59,7 +59,7 @@ profiles:
       <p>Quchan University of Technology</p>
       <p>Quchan, IRAN</p>
 
-   - align: left
+ - align: left
      image: A-Ghalavand.jpg
      content: about_A-Ghalavand.md
      image_circular: false # crops the image to make it circular
