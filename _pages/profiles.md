@@ -4,7 +4,7 @@ permalink: /people/
 title: Team
 description: Team members of the GTA-Lab
 nav: true
-nav_order: 8
+nav_order: 7
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
