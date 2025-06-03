@@ -23,6 +23,7 @@ nav_order: 1
 
 ## 🎓 Graph Machine Learning workshop  
 🗓 **Date:** June 2, 2025 
+
 📍 **Location:** Faculty of Mathematical Sciences, Ferdowsi University of Mashhad
 
 A workshop on Graph Machine Learning at the Faculty of Mathematical Sciences by Dr. Soheila Ashkezari.  
