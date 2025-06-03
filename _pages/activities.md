@@ -35,7 +35,7 @@ A workshop on Graph Machine Learning at the Faculty of Mathematical Sciences by 
 ### 📷 Images  
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="/assets/img/garph-machine-learning.jpg" alt="graph machine learning Workshop"></div>
+    <div class="swiper-slide"><img src="/assets/img/graph-machine-learning.jpg" alt="graph machine learning Workshop"></div>
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
