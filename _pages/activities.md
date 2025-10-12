@@ -20,6 +20,7 @@ nav_order: 1
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); 
   }
 </style>
+
 ---
 ##📖 New Book Release
 
@@ -47,7 +48,43 @@ The work serves as a valuable resource for researchers, students, and profession
   <div class="swiper-button-prev"></div>
   <div class="swiper-pagination"></div>
 </div>
+---
+## 📘 New Book Release
 
+## Graph Operations and Their Application in Mathematical Chemistry
+🔹 Authors: Dr. Mostafa Tavakoli, Dr. Asma Hamzeh, Dr. Ali Reza Ashrafi, Dr. Morteza Faghani, Dr. Gholam Hossein Fath-Tabar
+🔹 Publisher: Ferdowsi University of Mashhad Press
+
+This book explores the role of graph operations in solving problems in mathematical chemistry.
+📍 Available at: Faculty of Mathematical Sciences Library, Ferdowsi University of Mashhad
+### 📷 Images  
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="/assets/img/Graphbook2.jpg" alt="Graphbook2"></div>
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
+---
+##📘 New Book Release
+
+## Graph Theory and Its Applications
+🔹 Authors: Dr. Mostafa Tavakoli, Dr. Freydoon Rahbarnia
+🔹 Publisher: Ferdowsi University of Mashhad Press
+
+This book is written with the aim of providing a deep and practical understanding of graph theory.
+
+📍 Available at: Faculty of Mathematical Sciences Library, Ferdowsi University of Mashhad
+### 📷 Images  
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="/assets/img/Graphbook1.jpg" alt="Graphbook1"></div>
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
 ---
 ## 🎓 Graph Machine Learning workshop  
 🗓 **Date:** June 2, 2025 
