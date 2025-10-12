@@ -56,6 +56,7 @@ The work serves as a valuable resource for researchers, students, and profession
 🔹 Publisher: Ferdowsi University of Mashhad Press
 
 This book explores the role of graph operations in solving problems in mathematical chemistry.
+
 📍 Available at: Faculty of Mathematical Sciences Library, Ferdowsi University of Mashhad
 ### 📷 Images  
 <div class="swiper mySwiper">
@@ -85,6 +86,7 @@ This book is written with the aim of providing a deep and practical understandin
   <div class="swiper-button-prev"></div>
   <div class="swiper-pagination"></div>
 </div>
+
 ---
 ## 🎓 Graph Machine Learning workshop  
 🗓 **Date:** June 2, 2025 
