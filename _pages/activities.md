@@ -22,6 +22,7 @@ nav_order: 1
 </style>
 ---
 ##📖 New Book Release
+
 Graph Algorithms: From Theory to Implementation
 
 🔹 Authors:
