@@ -23,7 +23,7 @@ nav_order: 1
 ---
 ##📖 New Book Release
 
-Graph Algorithms: From Theory to Implementation
+## Graph Algorithms: From Theory to Implementation
 
 🔹 Authors:
 Dr. Mostafa Tavakoli, Dr. Narjes Sabeghi, Zahra Hamed Labbafian, Dr. Fereydoon Rahbarbenia
