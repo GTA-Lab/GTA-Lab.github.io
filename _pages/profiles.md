@@ -96,7 +96,7 @@ profiles:
       <p>Iranshahr, IRAN</p>  
 
   - align: left
-    image: Z-hamedlabafian.jpg
+    image: Z-hamedlabbafian.jpg
     content: about_Z-Hamedlabafian.md
     image_circular: false # crops the image to make it circular
     
