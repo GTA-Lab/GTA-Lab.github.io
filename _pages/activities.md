@@ -21,20 +21,21 @@ nav_order: 1
   }
 </style>
 
-## انتشار کتاب جدید
-
+##📖 New Book Release
 Graph Algorithms: From Theory to Implementation
 
-🔹 نویسندگان:
-دکتر مصطفی توکلی، دکتر نرجس صابغی، دکتر زهرا حامد لبافیان، دکتر فریدون رهبربنیا
+🔹 Authors:
+Dr. Mostafa Tavakoli, Dr. Narjes Sabeghi, Zahra Hamed Labbafian, Dr. Fereydoon Rahbarbenia
 
-🔹 ناشر: انتشارات دانشگاه فردوسی مشهد
+🔹 Publisher:
+Ferdowsi University of Mashhad Press
 
-این کتاب با هدف ارائه‌ی یک رویکرد جامع و کاربردی به الگوریتم‌های گراف تألیف شده است. در آن ضمن مرور مفاهیم نظری، نحوه‌ی پیاده‌سازی الگوریتم‌ها نیز با مثال‌های عملی توضیح داده شده است.
-این اثر می‌تواند منبعی ارزشمند برای پژوهشگران، دانشجویان، و علاقه‌مندان به نظریه‌ی گراف و کاربردهای آن در علوم داده و یادگیری ماشین باشد.
+This book provides a comprehensive and practical approach to graph algorithms, combining theoretical foundations with hands-on implementation techniques. It presents both conceptual insights and real-world examples to illustrate algorithm design and application.
 
-📖 تاریخ انتشار: ۱۴۰۴ (۲۰۲۵)
-📍 دسترسی: کتابخانه‌ی دانشکده علوم ریاضی، دانشگاه فردوسی مشهد
+The work serves as a valuable resource for researchers, students, and professionals interested in graph theory.
+
+📖 Publication Year: 2025 (1404)
+📍 Availability: Faculty of Mathematical Sciences Library, Ferdowsi University of Mashhadد
 
 ### 📷 Images  
 <div class="swiper mySwiper">
