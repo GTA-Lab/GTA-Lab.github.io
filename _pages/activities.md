@@ -37,6 +37,7 @@ This book provides a comprehensive and practical approach to graph algorithms, c
 The work serves as a valuable resource for researchers, students, and professionals interested in graph theory.
 
 📖 Publication Year: 2025 (1404)
+
 📍 Availability: Faculty of Mathematical Sciences Library, Ferdowsi University of Mashhadد
 
 ### 📷 Images  
@@ -55,6 +56,7 @@ The work serves as a valuable resource for researchers, students, and profession
 
 ## Graph Operations and Their Application in Mathematical Chemistry
 🔹 Authors: Dr. Mostafa Tavakoli, Dr. Asma Hamzeh, Dr. Ali Reza Ashrafi, Dr. Morteza Faghani, Dr. Gholam Hossein Fath-Tabar
+
 🔹 Publisher: Ferdowsi University of Mashhad Press
 
 This book explores the role of graph operations in solving problems in mathematical chemistry.
@@ -75,7 +77,9 @@ This book explores the role of graph operations in solving problems in mathemati
 ##📘 New Book Release
 
 ## Graph Theory and Its Applications
+
 🔹 Authors: Dr. Mostafa Tavakoli, Dr. Freydoon Rahbarnia
+
 🔹 Publisher: Ferdowsi University of Mashhad Press
 
 This book is written with the aim of providing a deep and practical understanding of graph theory.
