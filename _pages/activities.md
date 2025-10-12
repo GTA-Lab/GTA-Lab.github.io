@@ -48,7 +48,9 @@ The work serves as a valuable resource for researchers, students, and profession
   <div class="swiper-button-prev"></div>
   <div class="swiper-pagination"></div>
 </div>
+
 ---
+
 ## 📘 New Book Release
 
 ## Graph Operations and Their Application in Mathematical Chemistry
@@ -67,7 +69,9 @@ This book explores the role of graph operations in solving problems in mathemati
   <div class="swiper-button-prev"></div>
   <div class="swiper-pagination"></div>
 </div>
+
 ---
+
 ##📘 New Book Release
 
 ## Graph Theory and Its Applications
@@ -88,6 +92,7 @@ This book is written with the aim of providing a deep and practical understandin
 </div>
 
 ---
+
 ## 🎓 Graph Machine Learning workshop  
 🗓 **Date:** June 2, 2025 
 
