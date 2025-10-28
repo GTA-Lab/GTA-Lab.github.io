@@ -22,6 +22,26 @@ nav_order: 1
 </style>
 
 ---
+## 🎓 Talk to Chatbots Link a Pro!
+🗓 **Date:** 30 october 2025
+
+📍 **Location:** Faculty of Mathematical Sciences, Ferdowsi University of Mashhad
+
+Workshop is an opportunity to learn how to communicate effectively with chatbots and conversational AI.
+Participants will discover how to use chatbots to boost productivity, creativity, and problem-solving in professional contexts. 
+
+### 📷 Images  
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="/assets/img/graph-machine-learning.jpg" alt="Talk to Chatbots Link a Pro!"></div>
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
+
+---
+
 ##📖 New Book Release
 
 ## Graph Algorithms: From Theory to Implementation
