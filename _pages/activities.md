@@ -33,7 +33,7 @@ Participants will discover how to use chatbots to boost productivity, creativity
 ### 📷 Images  
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="/assets/img/graph-machine-learning.jpg" alt="Talk to Chatbots Link a Pro!"></div>
+    <div class="swiper-slide"><img src="/assets/img/Talk to Chatbots Link a Pro!.png" alt="Talk to Chatbots Link a Pro!"></div>
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
