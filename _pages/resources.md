@@ -7,16 +7,18 @@ author_profile: false
 
 # Resources
 
-Welcome to the GTA Lab resource repository.
+This page provides downloadable resources prepared by the Graph Theory and its Applications Lab.
 
 ## Thesis Templates
 
-- [PhD Dissertation Template (LaTeX)](/files/phd-template.zip)
-- [MSc Thesis Template (LaTeX)](/files/msc-template.zip)
-- [Word Template](/files/thesis.docx)
+- 📄 [LaTeX Thesis and Dissertation Template](/files/FUM-LaTeX-Thesis.zip)
 
-## Tutorials
+### Description
 
-- LaTeX Tutorial
-- Overleaf Guide
-- Beamer Template
+This package contains:
+
+- LaTeX thesis/dissertation template
+- Sample chapters
+- Bibliography style
+- Required packages
+- Instructions for compilation
