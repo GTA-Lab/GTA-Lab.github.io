@@ -11,7 +11,7 @@ This page provides downloadable resources prepared by the Graph Theory and its A
 
 ## Thesis Templates
 
-- 📄 [LaTeX Thesis and Dissertation Template](/files/FUM-LaTeX-Thesis.zip)
+- 📄 [LaTeX Thesis and Dissertation Template](/assets/downloads/latex-thesis-template.zip)
 
 ### Description
 
