@@ -1,16 +1,19 @@
 ---
-title: "Downloads"
+layout: page
+title: Downloads
 permalink: /downloads/
-layout: single
-author_profile: true
+nav: true
+nav_order: 7
 ---
 
 # Downloads
 
 ## ABThesis
 
-**Version 1.2.6**
+Current version: **1.2.6**
+
+📥 **Download:**
 
 <a href="/assets/downloads/ABThesis_V.1.2.6.zip" download>
-Download ABThesis V1.2.6
+ABThesis_V.1.2.6.zip
 </a>
