@@ -11,7 +11,7 @@ This page provides downloadable resources prepared by the Graph Theory and its A
 
 ## Thesis Templates
 
-- 📄 [LaTeX Thesis and Dissertation Template](/assets/downloads/latex-thesis-template.zip)
+- 📄 [LaTeX Thesis and Dissertation Template](/assets/downloads/ABThesis_V.1.2.6.zip)
 
 ### Description
 
