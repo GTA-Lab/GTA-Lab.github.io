@@ -18,3 +18,23 @@ Current version: **1.2.6**
 <a href="/assets/downloads/ABThesis_V.1.2.6.zip" download class="btn btn-primary">
 Download ABThesis V1.2.6
 </a>
+
+---
+
+## Thesis & Dissertation Typing Guide
+
+📄 **راهنمای تایپ رساله و پایان‌نامه.pdf**
+
+<a href="/assets/downloads/راهنمای%20تایپ%20رساله%20و%20پایان%20نامه.pdf" download class="btn btn-primary">
+Download Thesis & Dissertation Typing Guide (PDF)
+</a>
+
+---
+
+## Additional Resources
+
+📄 **ABThesis Guide (Google Drive)**
+
+<a href="https://drive.google.com/file/d/1lEBrgy3R5HUxEM2eOtsf80siAmPfLCmI/view?usp=drive_link" target="_blank" class="btn btn-primary">
+Open Google Drive
+</a>
