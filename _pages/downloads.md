@@ -36,3 +36,10 @@ Download Thesis & Dissertation Typing Guide (PDF)
 <a href="https://drive.google.com/file/d/1lEBrgy3R5HUxEM2eOtsf80siAmPfLCmI/view?usp=drive_link" target="_blank" class="btn btn-primary">
 Open Google Drive
 </a>
+
+📦 **ABThesis_V.1.2.6.zip**
+
+<a href="/assets/downloads/ABThesis_V.1.2.6.rar" download class="btn btn-primary">
+Download ABThesis V1.2.6
+</a>
+
