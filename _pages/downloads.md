@@ -11,8 +11,6 @@ nav_order: 7
 
 ## ABThesis
 
-Current version: **1.2.6**
-
 📦 **ABThesis_V.1.2.6.zip**
 
 <a href="/assets/downloads/ABThesis_V.1.2.6.zip" download class="btn btn-primary">
