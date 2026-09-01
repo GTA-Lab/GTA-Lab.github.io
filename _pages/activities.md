@@ -32,7 +32,7 @@ Participants will learn how to turn initial ideas and sketches into clear, preci
 ### 📷 Images
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="/assets/img/Inkscape Workshop.png" alt="Inkscape Workshop"></div>
+    <div class="swiper-slide"><img src="/assets/img/پوستر Inkscape.png" alt="Inkscape Workshop"></div>
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
