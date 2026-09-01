@@ -20,7 +20,24 @@ nav_order: 1
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); 
   }
 </style>
+---
+## 🎨 Inkscape Workshop: Scientific Graph Drawing
 
+📍 **Location:** Faculty of Mathematical Sciences, Ferdowsi University of Mashhad
+
+This workshop introduces Inkscape as a practical tool for designing professional scientific figures, with a focus on drawing graphs for research papers, theses, and dissertations.
+
+Participants will learn how to turn initial ideas and sketches into clear, precise, and publication-ready figures.
+
+### 📷 Images
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="/assets/img/Inkscape Workshop.png" alt="Inkscape Workshop"></div>
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
 ---
 ## 🎓 Talk to Chatbots Link a Pro!
 🗓 **Date:** 30 october 2025
