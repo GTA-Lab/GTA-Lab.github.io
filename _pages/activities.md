@@ -21,7 +21,7 @@ nav_order: 1
   }
 </style>
 ---
-## 🎨 Inkscape Workshop: Scientific Graph Drawing
+##  Inkscape Workshop: Scientific Graph Drawing
 
 📍 **Location:** Faculty of Mathematical Sciences, Ferdowsi University of Mashhad
 
