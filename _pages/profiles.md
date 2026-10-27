@@ -96,6 +96,16 @@ profiles:
       <p>Iranshahr, IRAN</p>  
 
   - align: left
+    image: F-Rezvanifard.jpg
+    content: about_F-Rezvanifardi.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Room No. 710</p>
+      <p>Faculty of Mathematical Sciences</p>
+      <p>Ferdowsi Univ. of Mashhad</p>
+      <p>Mashhad, IRAN</p>
+      
+  - align: right
     image: Z-hamedlabbafian.jpg
     content: about_Z-Hamedlabafian.md
     image_circular: false # crops the image to make it circular
