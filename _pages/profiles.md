@@ -100,7 +100,6 @@ profiles:
     content: about_F-Rezvanifard.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Room No. 710</p>
       <p>Faculty of Mathematical Sciences</p>
       <p>Ferdowsi Univ. of Mashhad</p>
       <p>Mashhad, IRAN</p>
