@@ -97,7 +97,7 @@ profiles:
 
   - align: left
     image: F-Rezvanifard.jpg
-    content: about_F-Rezvanifardi.md
+    content: about_F-Rezvanifard.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Room No. 710</p>
